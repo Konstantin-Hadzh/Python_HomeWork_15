@@ -1,0 +1,4 @@
+2024-01-30 20:17:16,125 - INFO: FSObject(name='.DS_Store', ext=None, is_dir=False, parent='intermediate certification')
+2024-01-30 20:17:16,125 - INFO: FSObject(name='date_log', ext='log', is_dir=False, parent='intermediate certification')
+2024-01-30 20:17:16,125 - INFO: FSObject(name='homework_15', ext='', is_dir=True, parent='intermediate certification')
+2024-01-30 20:17:16,125 - INFO: FSObject(name='hw15t01_file_list', ext='txt', is_dir=False, parent='intermediate certification')
